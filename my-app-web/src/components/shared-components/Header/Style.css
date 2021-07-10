@@ -1,0 +1,27 @@
+.Table-heading {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: -webkit-sticky; 
+    position: sticky; 
+    top: 0px; 
+    z-index: 100;
+    cursor: pointer;
+}
+
+.Table-column {
+    padding: 5px;
+    min-width: 300px;
+    text-align: left;
+    border: solid 1px #ddd;
+    display: flex;
+    background: #fff;
+}
+
+.Table-icon {
+    height: 15px;
+    padding: 5px;
+}

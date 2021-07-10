@@ -1,0 +1,8 @@
+.Table-column {
+    padding: 5px;
+    min-width: 300px;
+    text-align: left;
+    border: solid 1px #ddd;
+    display: flex;
+    background: #fff;
+}

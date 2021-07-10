@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@types/node": "^16.3.0",
+    "aws-sdk": "^2.943.0",
+    "init-package-json": "^2.0.3",
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "devstart": "nodemon src/server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
